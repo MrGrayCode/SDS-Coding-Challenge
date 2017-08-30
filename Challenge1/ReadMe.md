@@ -11,6 +11,7 @@ smaller_prime,input_number,larger_prime
 137
 ```
 
+### Output
 ```
 131,137,139
 ```
